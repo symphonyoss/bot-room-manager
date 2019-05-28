@@ -44,3 +44,18 @@ The message is displayed in the central chat room. In the use case provided by t
 The Central Chat Room can then send messages to any (or all) of the other chat rooms, for example, Chat Room 1 "Let's do the deal.", Chat Room 2' "You're too late, the deal is already done."
 ---
 This comes from a real world use case provided by Groupama AM where they submit an offer and the sales people bid on it. They tell us that this is a killer functionality.
+
+## Contributing
+
+1. Fork it (<https://github.com/symphonyoss/bot-room-manager/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Read our [contribution guidelines](.github/CONTRIBUTING.md) and [Community Code of Conduct](https://www.finos.org/code-of-conduct)
+4. Commit your changes (`git commit -am 'Add some fooBar'`)
+5. Push to the branch (`git push origin feature/fooBar`)
+6. Create a new Pull Request
+
+## License
+
+The code in this repository is distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+
+Copyright 2016-2019 Symphony Communication Services, LLC
